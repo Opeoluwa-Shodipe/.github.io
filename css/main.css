@@ -173,7 +173,7 @@ body {
   -webkit-locale: auto;
   font-family: "HelveticaNeueCyr", sans-serif;
   color: #E2DCC8;
-  background: #1C1C1C;
+  background: #FFFFFF;
   background: -webkit-gradient(linear, left top, right top, from(#241f1f), color-stop(32%, #241f1f), to(#4a4746));
   background: linear-gradient(to right, #241f1f 0%, #241f1f 32%, #4a4746 100%); }
 
